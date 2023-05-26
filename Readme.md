@@ -112,7 +112,7 @@ document.getElementById("result").innerHTML=counter;
 }
 ```
 
-![foto](/Progetto-js/image/image.png)
+![foto] (/Progetto-js/image/image.png)
 This is the result!
 
 if you want to try [click_here](https://deluxe-kulfi-3e8cd5.netlify.app)
